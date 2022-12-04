@@ -1,4 +1,5 @@
-# Birthday_List_Public
+# Birthday_List
+
 Birthday List App
 
 To create environment from any command prompt without anaconda(requirements.txt):
