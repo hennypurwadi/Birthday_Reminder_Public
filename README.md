@@ -13,11 +13,11 @@ C:\Users\Asus\PYTHON_C\Chatbot\Birthday_List_Public> envi\Scripts\activate
 
 To install requirements for environment:
 
-(env) C:\Users\Asus\PYTHON_C\Chatbot\Birthday_List_Public>pip install -r requirements.txt
+(envi) C:\Users\Asus\PYTHON_C\Chatbot\Birthday_List_Public>pip install -r requirements.txt
 
 To run streamlit_app.py from command prompt with streamlit:
 
-(env) C:\Users\Asus\PYTHON_C\Chatbot\Birthday_List_Public> streamlit run streamlit_Bday_List_app.py
+(envi) C:\Users\Asus\PYTHON_C\Chatbot\Birthday_List_Public> streamlit run streamlit_Bday_List_app.py
 
 You can now view your Streamlit app in your browser.
 
